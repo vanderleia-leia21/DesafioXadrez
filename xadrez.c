@@ -73,4 +73,4 @@ int main() {
 }
 
 
-FARATAA
+FARA...
